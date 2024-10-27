@@ -11,8 +11,8 @@
 
 Clone and copy the color scheme's config file to `$XDG_CONFIG_HOME/sioyek/prefs_user.config`.
 
-```bash
-git clone git@github.com:loiccoyle/base16-sioyek.git
+```sh
+git clone git@github.com:tinted-theming/base16-sioyek.git
 cp base16-sioyek/colors/base16-gruvbox-dark-hard.config ~/.config/sioyek/prefs_user.config
 ```
 
